@@ -1,5 +1,7 @@
 # Cyber Threat
 
+<p align="center"> <img src="https://github.com/zero2sec/CyberThreat/blob/master/config/CyberThreat.png"></p>
+
 # Análise de Ameaça Cibernética
 
 Qualquer ameaça detectada ou reportada para a equipe, será análisada utilizando recursos e ferramentas para a detecção de vetores, endereços, urls, conexões, e outras técnicas.
