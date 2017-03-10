@@ -1,3 +1,3 @@
 Cyber Threat
 
-![alt tag](http://diariodonordeste.verdesmares.com.br/polopoly_fs/1.1620768!/image/image.jpg) 
+![alt tag](http://blog.trendmicro.com/wp-content/uploads/2014/07/Protection.jpg) 
