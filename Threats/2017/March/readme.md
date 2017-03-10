@@ -1,6 +1,6 @@
 # Relatório de Ameaças Março/2017
 
-O relatório contém URLs (#phishing) e Malwares (#malwares) análisados, que foram detectados ou reportados para a análise da equipe.
+O relatório contém URLs, endereços e Malwares análisados, que foram detectados ou reportados para a análise da equipe.
 
 As informações de cada item pode ser encontrado através da plataforma VirusTotal (https://www.virustotal.com/en/) através do opção "Search" é possivel visualizar comentários e mais detalhes sobre a ameaça analisada.
 
