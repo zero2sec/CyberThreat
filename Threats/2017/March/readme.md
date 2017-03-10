@@ -1,6 +1,6 @@
 # Relatório de Ameaças Março/2017
 
-O relatório contém URLs, endereços e Malwares análisados, que foram detectados ou reportados para a análise da equipe.
+O relatório contém urls, endereços e malwares análisados, que foram detectados ou reportados para análise.
 
 As informações de cada item pode ser encontrado através da plataforma VirusTotal (https://www.virustotal.com/en/) através do opção "Search" é possivel visualizar comentários e mais detalhes sobre a ameaça analisada.
 
